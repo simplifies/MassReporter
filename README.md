@@ -8,4 +8,4 @@ You will need:
 3.  the channel id
 4.  and message id
 
-#You also need to be admin on the server
+# You also need to be admin on the server
